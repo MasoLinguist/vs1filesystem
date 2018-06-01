@@ -1,4 +1,4 @@
-package htw.vs1.filesystem.Tests;
+package htw.vs1.filesystem.FileSystem.virtual;
 
 import htw.vs1.filesystem.FileSystem.exceptions.*;
 import htw.vs1.filesystem.FileSystem.virtual.*;

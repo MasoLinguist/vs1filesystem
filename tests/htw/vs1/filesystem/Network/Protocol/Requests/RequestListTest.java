@@ -1,4 +1,4 @@
-package htw.vs1.filesystem.Tests;
+package htw.vs1.filesystem.Network.Protocol.Requests;
 
 import htw.vs1.filesystem.FileSystemManger;
 import htw.vs1.filesystem.Network.Protocol.Requests.RequestLinkedList;

@@ -1,7 +1,5 @@
-package htw.vs1.filesystem.Tests;
+package htw.vs1.filesystem;
 
-import htw.vs1.filesystem.CommandParser;
-import htw.vs1.filesystem.FileSystemManger;
 import org.junit.Before;
 import org.junit.Test;
 
